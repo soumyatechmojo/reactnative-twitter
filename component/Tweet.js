@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, Text, Image, StyleSheet } from 'react-native'
 
-import Colors from '../utils/Colors'
+import Colors from '../util/Colors'
 
 const Tweet = ({ name, handle, tweet, imageUri, style }) => {
     return (

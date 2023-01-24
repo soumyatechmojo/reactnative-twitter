@@ -3,8 +3,8 @@ import { View, StyleSheet, SafeAreaView, Button } from 'react-native'
 
 import { launchImageLibraryAsync } from 'expo-image-picker'
 
-import Tweet from '../components/Tweet'
-import LabeledTextInput from '../components/LabledTextInput'
+import Tweet from '../component/Tweet'
+import LabeledTextInput from '../component/LabeledTextInput'
 
 //in device , open google chrome browser, download png images and download it.
 // click Add Profile Picture, in menu, select image/downloads   and select your pic.
